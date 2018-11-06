@@ -1,1 +1,13 @@
-// add your Reference_Arc code here
+size(500,500);
+stroke(140,200,0,125);
+strokeWeight(10);
+fill(140,200,0);
+arc(250,250,300,300,radians(90),radians(180));
+stroke(0,175,255,100);
+strokeWeight(5);
+fill(0,175,255,100);
+arc(240,100,400,400,radians(0),radians(180));
+stroke(175,0,195);
+strokeWeight(7);
+fill(175,0,195,175);
+arc(300,100,200,200,radians(180),radians(360));
